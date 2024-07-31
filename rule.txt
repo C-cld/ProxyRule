@@ -1,6 +1,7 @@
 ;common domain
 *google*
 *wikipedia*
+*wikimedia*
 *stackoverflow*
 *github*
 *youtube*
