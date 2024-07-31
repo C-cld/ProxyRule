@@ -1,0 +1,14 @@
+;常用网站
+*google*
+*stackoverflow*
+*github*
+*youtube*
+*onedrive*
+*wallhaven*
+*v2ex*
+*x*
+*docker*
+;资源
+*ytimg*
+*ggpht*
+*gstatic*
