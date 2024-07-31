@@ -8,6 +8,7 @@
 *v2ex*
 *x*
 *docker*
+*nytimes*
 ;资源
 *ytimg*
 *ggpht*
