@@ -1,4 +1,4 @@
-;常用网站
+;common domain
 *google*
 *stackoverflow*
 *github*
@@ -6,11 +6,11 @@
 *onedrive*
 *wallhaven*
 *v2ex*
-*x*
+*.x.*
 *docker*
 *nytimes*
 *scmp*
-;资源
+;resource domain
 *ytimg*
 *ggpht*
 *gstatic*
