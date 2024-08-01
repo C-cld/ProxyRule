@@ -13,6 +13,7 @@
 *nytimes*
 *scmp*
 *voachinese*
+*voanews*
 *zaobao*
 ;resource domain
 *ytimg*
