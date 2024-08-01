@@ -12,6 +12,8 @@
 *docker*
 *nytimes*
 *scmp*
+*voachinese*
+*zaobao*
 ;resource domain
 *ytimg*
 *ggpht*
