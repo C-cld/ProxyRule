@@ -1,4 +1,4 @@
-;common domain
+;=========common domain===========
 *google*
 *wikipedia*
 *wikimedia*
@@ -11,11 +11,12 @@
 *.x.*
 *docker*
 *nytimes*
+*.nyt.com
 *scmp*
 *voachinese*
 *voanews*
 *zaobao*
-;resource domain
+;=========resource domain==========
 *ytimg*
 *ggpht*
 *gstatic*
