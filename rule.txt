@@ -16,6 +16,7 @@
 *voachinese*
 *voanews*
 *zaobao*
+*bbc*
 ;=========resource domain==========
 *ytimg*
 *ggpht*
