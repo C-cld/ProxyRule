@@ -19,5 +19,6 @@
 *bbc*
 ;=========resource domain==========
 *ytimg*
+*twimg*
 *ggpht*
 *gstatic*
