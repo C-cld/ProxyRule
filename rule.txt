@@ -1,4 +1,3 @@
-;=========common domain===========
 *google*
 *wikipedia*
 *wikimedia*
@@ -17,7 +16,7 @@
 *voanews*
 *zaobao*
 *bbc*
-;=========resource domain==========
+
 *ytimg*
 *twimg*
 *ggpht*
