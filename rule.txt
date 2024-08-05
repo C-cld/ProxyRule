@@ -7,7 +7,7 @@
 *onedrive*
 *wallhaven*
 *v2ex*
-*.x.*
+*.x.com*
 *docker*
 *nytimes*
 *.nyt.com
@@ -16,6 +16,10 @@
 *voanews*
 *zaobao*
 *bbc*
+*facebook*
+*twitter*
+*browserscan*
+*bloomberg*
 
 *ytimg*
 *twimg*
