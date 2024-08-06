@@ -7,7 +7,7 @@
 *onedrive*
 *wallhaven*
 *v2ex*
-*.x.com*
+*.x.com
 *docker*
 *nytimes*
 *.nyt.com
