@@ -21,6 +21,7 @@
 *browserscan*
 *bloomberg*
 *tiktok*
+*reuters*
 
 *ytimg*
 *twimg*
