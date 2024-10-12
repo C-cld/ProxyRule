@@ -13,6 +13,7 @@
 *reuters*
 *reddit*
 *scmp*
+*spotify*
 *stackoverflow*
 *tiktok*
 *twitter*
