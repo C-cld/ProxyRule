@@ -18,6 +18,7 @@
 *tiktok*
 *twitter*
 *twimg*
+*uptodown*
 *v2ex*
 *voachinese*
 *voanews*
