@@ -3,6 +3,7 @@
 *browserscan*
 *bloomberg*
 *chinadigitaltimes*
+*cloudfront*
 *docker*
 *facebook*
 *google*
