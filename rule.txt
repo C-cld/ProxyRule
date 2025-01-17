@@ -17,6 +17,7 @@
 *scmp*
 *spotify*
 *stackoverflow*
+*termius*
 *tiktok*
 *twitter*
 *twimg*
