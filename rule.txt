@@ -2,6 +2,7 @@
 *bbc*
 *browserscan*
 *bloomberg*
+*chatgpt*
 *chinadigitaltimes*
 *cloudfront*
 *docker*
@@ -12,6 +13,7 @@
 *gstatic*
 *nytimes*
 *onedrive*
+*openai*
 *reuters*
 *reddit*
 *redd.it
