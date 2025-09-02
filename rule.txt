@@ -23,6 +23,7 @@
 *stackoverflow*
 *telegram*
 *termius*
+*threads*
 *tiktok*
 *twitter*
 *twimg*
