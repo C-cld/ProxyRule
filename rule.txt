@@ -21,6 +21,7 @@
 *spankbang*
 *spotify*
 *stackoverflow*
+*telegram*
 *termius*
 *tiktok*
 *twitter*
