@@ -6,6 +6,7 @@
 *chinadigitaltimes*
 *cloudfront*
 *docker*
+*dowjones*
 *facebook*
 *google*
 *github*
