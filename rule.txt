@@ -34,6 +34,7 @@
 *wikipedia*
 *wikimedia*
 *wallhaven*
+*wsj*
 *youtube*
 *ytimg*
 *zaobao*
