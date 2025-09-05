@@ -8,6 +8,7 @@
 *cloudfront*
 *docker*
 *dowjones*
+*epochtimes*
 *facebook*
 *google*
 *github*
