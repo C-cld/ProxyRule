@@ -15,6 +15,7 @@
 *nytimes*
 *onedrive*
 *openai*
+*proxifier*
 *reuters*
 *reddit*
 *redd.it
