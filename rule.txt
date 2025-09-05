@@ -26,6 +26,7 @@
 *speedtest*
 *spotify*
 *stackoverflow*
+*steampowered*
 *telegram*
 *termius*
 *threads*
