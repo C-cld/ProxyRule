@@ -1,4 +1,5 @@
 *apkmirror*
+*archive*
 *bbc*
 *browserscan*
 *bloomberg*
@@ -21,6 +22,7 @@
 *redd.it
 *scmp*
 *spankbang*
+*speedtest*
 *spotify*
 *stackoverflow*
 *telegram*
@@ -35,6 +37,9 @@
 *voanews*
 *wikipedia*
 *wikimedia*
+*wikinews*
+*wikiversity*
+*wikiwand*
 *wallhaven*
 *wsj*
 *youtube*
