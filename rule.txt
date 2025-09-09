@@ -16,6 +16,7 @@
 *gstatic*
 *investing*
 *nytimes*
+*oaistatic*
 *onedrive*
 *openai*
 *proxifier*
