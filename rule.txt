@@ -51,5 +51,6 @@
 *ytimg*
 *zaobao*
 *.x.com
+*x.ai*
 *.nyt.com
 
