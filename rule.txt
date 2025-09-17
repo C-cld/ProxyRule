@@ -10,9 +10,10 @@
 *dowjones*
 *epochtimes*
 *facebook*
-*google*
-*github*
 *ggpht*
+*github*
+*google*
+*grok*
 *gstatic*
 *investing*
 *nytimes*
